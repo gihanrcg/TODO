@@ -5,7 +5,7 @@ function Header(){
 
     return(
       <header style={headerStyles}>
-          <h1>ToDo List</h1>
+          <h1> Gihan's ToDo List</h1>
         
           <Link style={LinkStyle} to="/">Home</Link> |  <Link style={LinkStyle} to ="/about">About</Link>
          
